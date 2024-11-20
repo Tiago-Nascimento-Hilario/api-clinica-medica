@@ -1,4 +1,4 @@
-package br.com.tiago.api;
+package br.com.tiago.todoList;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
